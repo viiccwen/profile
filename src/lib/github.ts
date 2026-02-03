@@ -6,7 +6,7 @@ interface GitHubRepoResponse {
 
 export async function getStargazersCount(
   owner: string,
-  repo: string
+  repo: string,
 ): Promise<number> {
   const url = `https://api.github.com/repos/${owner}/${repo}`;
 
@@ -19,19 +19,20 @@ export async function getStargazersCount(
 
     if (!response.ok) {
       if (response.status === 403) {
-        console.warn(
-          `GitHub API rate limit reached for ${owner}/${repo}.`
-        );
+        console.warn(`GitHub API rate limit reached for ${owner}/${repo}.`);
       }
       throw new Error(
-        `Failed to fetch GitHub repo: ${response.status} ${response.statusText}`
+        `Failed to fetch GitHub repo: ${response.status} ${response.statusText}`,
       );
     }
 
     const data: GitHubRepoResponse = await response.json();
     return data.stargazers_count;
   } catch (error) {
-    console.error(`Error fetching stargazers count for ${owner}/${repo}:`, error);
+    console.error(
+      `Error fetching stargazers count for ${owner}/${repo}:`,
+      error,
+    );
     throw error;
   }
 }
@@ -46,4 +47,3 @@ export function formatStarCount(count: number): string {
   }
   return count.toString();
 }
-

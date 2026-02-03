@@ -43,14 +43,14 @@ export default function About() {
             try {
               const count = await getStargazersCount(
                 item.repository.owner,
-                item.repository.repo
+                item.repository.repo,
               );
               counts[key] = count;
             } catch (error) {
               console.error(`Failed to fetch stars for ${key}:`, error);
             }
           }
-        })
+        }),
       );
 
       setStarCounts(counts);

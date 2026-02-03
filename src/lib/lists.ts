@@ -307,6 +307,14 @@ export const presentation_list: presentation_type[] = [
   {
     title: "SITCON",
     subtitle: "Speaker",
+    text: "上線是起點：觀測×重構×擴充的系統迭代術",
+    link: "https://sitcon.org/2026/agenda/",
+    period: "Mar 2026",
+    logo: "/sitcon.jpg",
+  },
+  {
+    title: "SITCON",
+    subtitle: "Speaker",
     text: "從『經營』到『領導』：社群領導經驗分享",
     link: "https://sitcon.org/2025/agenda/62f54e/",
     period: "Mar 2025",
