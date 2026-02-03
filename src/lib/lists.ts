@@ -103,7 +103,7 @@ export const open_source_list: open_source_type[] = [
   },
   {
     title: "Apache Mahout",
-    subtitle: "Contributor",
+    subtitle: "Top 25 Contributor",
     period: "Jan 2026 - Present",
     logo: "/mahout.jpg",
     repository: {
@@ -112,8 +112,12 @@ export const open_source_list: open_source_type[] = [
     },
     description: [
       {
-        text: "Contributed 10+ PRs focused on designing & optimizing CUDA kernels.",
+        text: "Contributed 15+ PRs focusing on designing & optimizing QDP performance.",
         link: "https://github.com/apache/mahout/pulls?q=is%3Apr+author%3Aviiccwen",
+      },
+      {
+        text: "Helped review 30+ PRs focusing on code quality and performance.",
+        link: "https://github.com/apache/mahout/pulls?q=is%3Apr+reviewed-by%3Aviiccwen",
       },
     ],
   },
