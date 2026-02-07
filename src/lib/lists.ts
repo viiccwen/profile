@@ -49,7 +49,7 @@ export const skill_list = [
 
 export const experience_list: experience_type[] = [
   {
-    title: "Backend Engineer Internship",
+    title: "Software Engineer Internship",
     subtitle: "Fantasy X Games",
     period: "Jul 2025 - Present",
     logo: "/fxgames.png",
