@@ -103,7 +103,7 @@ export const open_source_list: open_source_type[] = [
   },
   {
     title: "Apache Mahout",
-    subtitle: "Top 25 Contributor",
+    subtitle: "Top 24 Contributor",
     period: "Jan 2026 - Present",
     logo: "/mahout.jpg",
     repository: {
@@ -111,6 +111,12 @@ export const open_source_list: open_source_type[] = [
       repo: "mahout",
     },
     description: [
+      {
+        text: "Optimize GPU amplitude encoding for CUDA tensors in zero-copy, and reducing encoding time by 33%.",
+      },
+      {
+        text: "Extended Mahout’s QDP Python and Rust APIs to support float32 GPU pipelines.",
+      },
       {
         text: "Contributed 15+ PRs focusing on designing & optimizing QDP performance.",
         link: "https://github.com/apache/mahout/pulls?q=is%3Apr+author%3Aviiccwen",
@@ -131,6 +137,9 @@ export const open_source_list: open_source_type[] = [
       repo: "dag-factory",
     },
     description: [
+      {
+        text: "Simplified scheduling by removing deprecated settings, improving compatibility with newer Airflow versions.",
+      },
       {
         text: "Contributed 5+ PRs focused on improving DAG generation & version migration.",
         link: "https://github.com/astronomer/dag-factory/pulls?q=is%3Apr+author%3Aviiccwen",

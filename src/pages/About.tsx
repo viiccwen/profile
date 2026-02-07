@@ -94,6 +94,23 @@ export default function About() {
               </div>
             </section>
 
+            {/* experience */}
+            <section className="w-full min-w-0">
+              <h2 className="mb-4 text-lg font-semibold">{t("EXPERIENCE")}</h2>
+              <div className="space-y-4">
+                {experience_list.map((experience, index) => (
+                  <ExperienceCard
+                    key={`experience-${index}`}
+                    title={experience.title}
+                    subtitle={experience.subtitle}
+                    period={experience.period}
+                    logo={experience.logo}
+                    description={experience.description}
+                  />
+                ))}
+              </div>
+            </section>
+
             {/* open source */}
             <section className="w-full min-w-0">
               <h2 className="mb-4 text-lg font-semibold">{t("OPEN SOURCE")}</h2>
@@ -118,23 +135,6 @@ export default function About() {
                     />
                   );
                 })}
-              </div>
-            </section>
-
-            {/* experience */}
-            <section className="w-full min-w-0">
-              <h2 className="mb-4 text-lg font-semibold">{t("EXPERIENCE")}</h2>
-              <div className="space-y-4">
-                {experience_list.map((experience, index) => (
-                  <ExperienceCard
-                    key={`experience-${index}`}
-                    title={experience.title}
-                    subtitle={experience.subtitle}
-                    period={experience.period}
-                    logo={experience.logo}
-                    description={experience.description}
-                  />
-                ))}
               </div>
             </section>
 
