@@ -18,7 +18,7 @@ interface InfoBlockProps {
 const CV_URL = {
   "zh-TW":
     "https://pdfs.cakeresume.com/user_pdfs/43179713-d9db-49ac-b8e3-53b9cab3d958.pdf",
-  en: "https://pdfs.cakeresume.com/user_pdfs/4939ee21-ebec-49cd-8b70-841e4875da06.pdf",
+  en: "/Resume_20260208.pdf",
 };
 
 export const InfoBlock = ({ lang, setLang }: InfoBlockProps) => {
@@ -151,7 +151,7 @@ export const InfoBlock = ({ lang, setLang }: InfoBlockProps) => {
           <div className="flex gap-3 w-full">
             <Button
               variant="outline"
-              className="flex-1 min-w-0"
+              className="flex-1 min-w-0 cursor-pointer"
               onClick={() => handleOpenCV("zh-TW")}
               disabled={true}
             >
@@ -159,9 +159,9 @@ export const InfoBlock = ({ lang, setLang }: InfoBlockProps) => {
             </Button>
             <Button
               variant="outline"
-              className="flex-1 min-w-0"
+              className="flex-1 min-w-0 cursor-pointer"
               onClick={() => handleOpenCV("en")}
-              disabled={true}
+              disabled={false}
             >
               {t("CV (English)")}
             </Button>
