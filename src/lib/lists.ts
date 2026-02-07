@@ -153,7 +153,7 @@ export const project_list: project_type[] = [
     title: "PartyTimes",
     description:
       "A web application that helps users to arrange their meeting, party schedules.",
-    imageUrl: "/partytimes.jpg",
+    imageUrl: "/partytimes.webp",
     link: "https://partytimes.org/",
   },
   {
@@ -166,7 +166,7 @@ export const project_list: project_type[] = [
   {
     title: "FindOne",
     description: "A real-time AI detection game powered by Vue.js and ASP.NET.",
-    imageUrl: "/findone.jpg",
+    imageUrl: "/findone.webp",
     link: "https://github.com/viiccwen/findone",
   },
   {
@@ -270,7 +270,7 @@ export const techstack_list = [
   },
   {
     name: "langchain",
-    logo: "/langchain.jpg",
+    logo: "/langchain.webp",
   },
   {
     name: "redis",
@@ -296,7 +296,7 @@ export const community_list: community_type[] = [
     text: "Google Developer Groups Community",
     link: "https://gdg.community.dev/gdg-on-campus-national-taiwan-university-of-science-and-technology-taipei-taiwan/",
     period: "Sep 2024 - June 2025",
-    logo: "/GDGC_NTUST.jpg",
+    logo: "/GDGC_NTUST.webp",
     description: [
       "Delivered an AI-Workshop at DevFest Taipei 2024, teaching LIT to analyze gemma model in keras.",
       "Sharing fundamental knowledge and applications of ML/DL, Frontend, Backend, Google Cloud, Linux, Git.",
@@ -323,7 +323,7 @@ export const presentation_list: presentation_type[] = [
     text: "Apache Mahout：釋放 QML 的 GPU 潛能",
     link: "https://sitcon.org/2026/agenda/fd8209/",
     period: "Mar 2026",
-    logo: "/sitcon.jpg",
+    logo: "/sitcon.webp",
   },
   {
     title: "SITCON",
@@ -331,7 +331,7 @@ export const presentation_list: presentation_type[] = [
     text: "上線是起點：觀測×重構×擴充的系統迭代術",
     link: "https://sitcon.org/2026/agenda/d06ebf/",
     period: "Mar 2026",
-    logo: "/sitcon.jpg",
+    logo: "/sitcon.webp",
   },
   {
     title: "SITCON",
@@ -339,7 +339,7 @@ export const presentation_list: presentation_type[] = [
     text: "從『經營』到『領導』：社群領導經驗分享",
     link: "https://sitcon.org/2025/agenda/62f54e/",
     period: "Mar 2025",
-    logo: "/sitcon.jpg",
+    logo: "/sitcon.webp",
   },
   {
     title: "GDG DevFest Taipei",

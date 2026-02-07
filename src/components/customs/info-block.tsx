@@ -33,7 +33,7 @@ export const InfoBlock = ({ lang, setLang }: InfoBlockProps) => {
       <div className="sm:fixed w-full max-w-[400px]">
         <div className="overflow-hidden rounded-lg flex justify-center w-full">
           <img
-            src="/vicwen.jpg"
+            src="/vicwen.webp"
             alt="Vic Wen"
             width={400}
             height={400}

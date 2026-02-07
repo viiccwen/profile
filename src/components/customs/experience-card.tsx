@@ -35,8 +35,8 @@ export const ExperienceCard = ({
             <img
               src={logo}
               alt={title}
-              width={30}
-              height={30}
+              width={50}
+              height={50}
               className="rounded-lg"
             />
           </div>
