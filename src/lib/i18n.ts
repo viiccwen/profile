@@ -141,7 +141,7 @@ const zhTWTranslations = {
   "Currently pursuing a third year in the Department of Computer Science and Information Engineering, with a GPA of 4.20/4.30, ranking third in the department (Top 4%).":
     "就讀於資訊工程學系三年級，GPA 為 4.20/4.30，為系上第三名（Top 4%）。",
   "Organized a BoF session at DevFest Taipei 2025, discussing the leadership skills and experience.":
-    "組織一場 BoF meetup，和各校 Lead 討論社群領導力技能和經驗。",
+    "組織 BoF meetup，和各校 Lead 討論社群領導和經驗。",
   "Delivered an AI-Workshop at DevFest Taipei 2024, teaching LIT to analyze gemma model in keras.":
     "擔任 2024 DevFest Taipei AI 工作坊講者，主題為：「Using LIT to analyze gemma models in keras」。",
   "Sharing fundamental knowledge and applications of ML/DL, Frontend, Backend, Google Cloud, Linux, Git.":
