@@ -280,6 +280,14 @@ export const techstack_list = [
 
 export const community_list: community_type[] = [
   {
+    title: "NTU AI Club",
+    subtitle: "Tech staff",
+    text: "Instagram",
+    link: "https://www.instagram.com/ntuaiclub/",
+    period: "Feb 2026 - Present",
+    logo: "/ntuai.webp",
+  },
+  {
     title: "GDG On Campus BoF",
     subtitle: "Organizer",
     text: "DevFest Taipei 2025 - Google Developer Groups",
