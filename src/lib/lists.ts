@@ -51,7 +51,7 @@ export const experience_list: experience_type[] = [
   {
     title: "Software Engineer Internship",
     subtitle: "Fantasy X Games",
-    period: "Jul 2025 - Present",
+    period: "Jul 2025 - Feb 2026",
     logo: "/fxgames.png",
     description: [
       "Optimized backend transaction merging with Kafka, achieving 3× throughput improvement and resolving transaction ordering issues.",
