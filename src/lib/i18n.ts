@@ -170,6 +170,26 @@ const zhTWTranslations = {
     "遷移資料儲存至 ClickHouse，降低 90% 的儲存成本（從 400GB 降至 40GB）。",
   "Designed 20+ ETL pipeline using Apache Airflow, reducing the data team’s preprocessing workload by 20 hours per month.":
     "設計 20 個以上的 ETL 管線，使用 Apache Airflow 減少資料團隊的預處理工作負載，每月減少 20 小時。",
+  "Optimized UI API requests performance by selective auto-refresh strategy, reducing requests by up to 78%":
+    "優化 UI API 請求效能，透過選擇性自動刷新策略，減少請求次數高達 78%。",
+  "Contributed to Apache Airflow, including API server feature & fixes.":
+    "貢獻 Apache Airflow 專案，包括 API server 功能和修復。",
+  "Optimized GPU amplitude encoding for CUDA tensors in zero-copy, and reducing encoding time by 33%.":
+    "優化 CUDA tensor 在 zero-copy 下的 GPU amplitude encoding，並減少編碼時間 33%。",
+  "Designed automated Python, Rust API documentations and CI/CD pipeline for QuMat and QDP.":
+    "為 QuMat 和 QDP 設計自動化 Python / Rust API 文件以及 CI/CD Pipeline。",
+  "Established a multi-language testing infrastructure to monitor Rust and Python code coverage.":
+    "建立多語言測試基礎建設，監控 Rust 和 Python 程式碼覆蓋率。",
+  "Extended Mahout’s QDP Python and Rust APIs to support float32 GPU pipelines.":
+    "擴展 Mahout 的 QDP Python 和 Rust API，支援 float32 GPU pipeline。",
+  "Contributed 15+ PRs focusing on designing & optimizing QDP performance.":
+    "貢獻超過 15 個 PR，聚焦於設計和優化 QDP 效能。",
+  "Helped review 30+ PRs focusing on code quality and performance.":
+    "協助審查超過 30 個 PR，聚焦於程式碼品質和效能。",
+  "Simplified scheduling by removing deprecated settings, improving compatibility with newer Airflow versions.":
+    "簡化排程，移除過時設定，提升與新版 Airflow 的相容性。",
+  "Contributed 5+ PRs focused on improving DAG generation & version migration.":
+    "貢獻超過 5 個 PR，聚焦於改善 DAG 生成和版本遷移。",
   "2025 iThome Ironman Challnge": "2025 iThome 鐵人賽",
   "Database Bottom-Level Architecture to Application Practice":
     "ClickHouse 系列：從資料庫底層架構到軟體應用實踐",
