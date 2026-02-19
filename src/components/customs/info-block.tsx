@@ -18,7 +18,7 @@ interface InfoBlockProps {
 const CV_URL = {
   "zh-TW":
     "https://pdfs.cakeresume.com/user_pdfs/43179713-d9db-49ac-b8e3-53b9cab3d958.pdf",
-  en: "/Resume_20260208.pdf",
+  en: "https://media.licdn.com/dms/image/v2/D562DAQG0iZv1DB_xNQ/profile-treasury-document-images_1920/B56Zx0X.RQI0As-/1/1771478968603?e=1772668800&v=beta&t=GfkoYZvs_VEB80wItdy-offCr_MYKby2aledW_WxJz4",
 };
 
 export const InfoBlock = ({ lang, setLang }: InfoBlockProps) => {
