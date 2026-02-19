@@ -96,6 +96,9 @@ export const open_source_list: open_source_type[] = [
     },
     description: [
       {
+        text: "Optimize API requests performance by selective auto-refresh strategy, reducing requests by up to 78%",
+      },
+      {
         text: "Contributed to Apache Airflow, including api server feature & fixes.",
         link: "https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aviiccwen",
       },
@@ -113,6 +116,12 @@ export const open_source_list: open_source_type[] = [
     description: [
       {
         text: "Optimize GPU amplitude encoding for CUDA tensors in zero-copy, and reducing encoding time by 33%.",
+      },
+      {
+        text: "Designed automated Python, Rust API documentations and CI/CD pipeline for QuMat and QDP.",
+      },
+      {
+        text: "Establish a multi-language testing infrastructure to monitor Rust and Python code coverage.",
       },
       {
         text: "Extended Mahout’s QDP Python and Rust APIs to support float32 GPU pipelines.",
@@ -154,7 +163,7 @@ export const project_list: project_type[] = [
     description:
       "A web application that helps users to arrange their meeting, party schedules.",
     imageUrl: "/partytimes.webp",
-    link: "https://partytimes.org/",
+    link: "https://github.com/viiccwen/partytimes",
   },
   {
     title: "NeoAcademy AI",
