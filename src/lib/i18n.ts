@@ -206,6 +206,7 @@ const zhTWTranslations = {
   "applied these learnings at work, achieving 10x storage savings (400GB → 40GB) by optimizing schema design and leveraging ClickHouse’s compression and engine capabilities.":
     "將這些學習應用於實習中，利用 ClickHouse 的壓縮和引擎功能，節省 10 倍儲存空間（400GB→40GB）。",
   "NTU AI Club": "臺大人工智慧應用社",
+  "NTU FinTech Club": "台大金融科技研究社",
   "GDG on Campus NTUST": "台科 Google 學生開發者社群",
 };
 

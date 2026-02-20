@@ -297,6 +297,14 @@ export const community_list: community_type[] = [
     logo: "/ntuai.webp",
   },
   {
+    title: "NTU FinTech Club",
+    subtitle: "Tech staff",
+    text: "Instagram",
+    link: "https://www.instagram.com/ntu_fc/",
+    period: "Feb 2026 - Present",
+    logo: "/ntufc.webp",
+  },
+  {
     title: "GDG On Campus BoF",
     subtitle: "Organizer",
     text: "DevFest Taipei 2025 - Google Developer Groups",
