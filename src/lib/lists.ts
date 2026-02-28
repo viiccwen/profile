@@ -127,11 +127,11 @@ export const open_source_list: open_source_type[] = [
         text: "Extended Mahout’s QDP Python and Rust APIs to support float32 GPU pipelines.",
       },
       {
-        text: "Contributed 15+ PRs focusing on designing & optimizing QDP performance.",
+        text: "Contributed 20+ PRs focusing on designing & optimizing QDP performance.",
         link: "https://github.com/apache/mahout/pulls?q=is%3Apr+author%3Aviiccwen",
       },
       {
-        text: "Helped review 30+ PRs focusing on code quality and performance.",
+        text: "Helped review 45+ PRs focusing on code quality and performance.",
         link: "https://github.com/apache/mahout/pulls?q=is%3Apr+reviewed-by%3Aviiccwen",
       },
     ],
