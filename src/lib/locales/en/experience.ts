@@ -57,10 +57,10 @@ export const experience = {
     "Established a multi-language testing infrastructure to monitor Rust and Python code coverage.",
   "Extended Mahout's QDP Python and Rust APIs to support float32 GPU pipelines.":
     "Extended Mahout's QDP Python and Rust APIs to support float32 GPU pipelines.",
-  "Contributed 20+ PRs focusing on designing & optimizing QDP performance.":
-    "Contributed 20+ PRs focusing on designing & optimizing QDP performance.",
-  "Helped review 45+ PRs focusing on code quality and performance.":
-    "Helped review 45+ PRs focusing on code quality and performance.",
+  "Contributed 25+ PRs focusing on designing & optimizing QDP performance.":
+    "Contributed 25+ PRs focusing on designing & optimizing QDP performance.",
+  "Helped review 55+ PRs focusing on code quality and performance.":
+    "Helped review 55+ PRs focusing on code quality and performance.",
   "Simplified scheduling by removing deprecated settings, improving compatibility with newer Airflow versions.":
     "Simplified scheduling by removing deprecated settings, improving compatibility with newer Airflow versions.",
   "Contributed 5+ PRs focused on improving DAG generation & version migration.":
