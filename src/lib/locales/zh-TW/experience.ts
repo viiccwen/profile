@@ -9,6 +9,10 @@ export const experience = {
   "Outstanding Youth": "第十九屆校園傑出青年",
   "Bachelor of Science in Computer Science": "資訊工程系學士",
   "Computer Science Student Association": "資訊工程學系學生會",
+  "Software Engineer Internship": "軟體工程實習生",
+  "Taiwan Mobile": "台灣大哥大",
+  "Designing an event-driven architecture with Kafka and RabbitMQ to decouple existing services and improve message reliability and scalability.":
+    "設計以 Kafka 與 RabbitMQ 為核心的 event-driven 架構，將既有服務解耦合，並提升訊息處理的可靠性與可擴充性。",
   "Utilized PHP, JavaScript, MySQL, and Burp Suite to design real-world web application vulnerabilities. Created attack scenarios to showcase how these vulnerabilities are exploited.":
     "運用 PHP、JavaScript、MySQL 與 Burp Suite 等工具設計網頁安全漏洞。",
   "Developed over five entry-to-intermediate level web penetration testing courses. Each course included handson labs that covered key topics such as network security, session management flaws, and web application firewall bypass techniques, ensuring students received practical exposure to web security challenges.":

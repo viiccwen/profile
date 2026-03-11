@@ -3,6 +3,15 @@ import type { ExperienceType } from "./types";
 export const experience_list: ExperienceType[] = [
   {
     title: "Software Engineer Internship",
+    subtitle: "Taiwan Mobile",
+    period: "Mar 2026 - Present",
+    logo: "/twm.webp",
+    description: [
+      "Designing an event-driven architecture with Kafka and RabbitMQ to decouple existing services and improve message reliability and scalability.",
+    ],
+  },
+  {
+    title: "Software Engineer Internship",
     subtitle: "Fantasy X Games",
     period: "Jul 2025 - Feb 2026",
     logo: "/fxgames.png",

@@ -12,8 +12,12 @@ export const experience = {
     "Bachelor of Science in Computer Science",
   "Computer Science Student Association":
     "Computer Science Student Association",
+  "Software Engineer Internship": "Software Engineer Internship",
+  "Taiwan Mobile": "Taiwan Mobile",
   "Utilized PHP, JavaScript, MySQL, and Burp Suite to design real-world web application vulnerabilities. Created attack scenarios to showcase how these vulnerabilities are exploited.":
     "Utilized PHP, JavaScript, MySQL, and Burp Suite to design real-world web application vulnerabilities. Created attack scenarios to showcase how these vulnerabilities are exploited.",
+  "Designing an event-driven architecture with Kafka and RabbitMQ to decouple existing services and improve message reliability and scalability.":
+    "Designing an event-driven architecture with Kafka and RabbitMQ to decouple existing services and improve message reliability and scalability.",
   "Developed over five entry-to-intermediate level web penetration testing courses. Each course included handson labs that covered key topics such as network security, session management flaws, and web application firewall bypass techniques, ensuring students received practical exposure to web security challenges.":
     "Developed over five entry-to-intermediate level web penetration testing courses. Each course included handson labs that covered key topics such as network security, session management flaws, and web application firewall bypass techniques, ensuring students received practical exposure to web security challenges.",
   "Currently pursuing a third year in the Department of Computer Science and Information Engineering, with a GPA of 4.20/4.30, ranking third in the department (Top 5%).":
