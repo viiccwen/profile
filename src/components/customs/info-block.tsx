@@ -161,7 +161,7 @@ export const InfoBlock = ({ lang, setLang }: InfoBlockProps) => {
               variant="outline"
               className="flex-1 min-w-0 cursor-pointer"
               onClick={() => handleOpenCV("en")}
-              disabled={false}
+              disabled={true}
             >
               {t("CV (English)")}
             </Button>

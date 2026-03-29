@@ -1,8 +1,10 @@
 export const skill_list = [
-  "LLM",
   "NLP",
-  "AI Agent",
+  "SER",
+  "LLM",
   "Backend",
   "Distributed System",
+  "CUDA",
+  "Quantum",
   "Open Source",
 ];
