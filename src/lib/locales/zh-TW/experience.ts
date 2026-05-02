@@ -14,8 +14,8 @@ export const experience = {
   "Google Summer of Code": "Google Summer of Code",
   "The Apache Software Foundation": "The Apache 軟體基金會",
   "Taiwan Mobile": "台灣大哥大",
-  "Selected for Google Summer of Code 2026 to contribute to the Apache Mahout project under The Apache Software Foundation.":
-    "入選 Google Summer of Code 2026，於 The Apache Software Foundation 旗下的 Apache Mahout 專案中進行貢獻。",
+  "Selected for Google Summer of Code 2026, primarily contributing to the automated API documentation pipeline for Apache Mahout.":
+    "入選 Google Summer of Code 2026，於 Apache Mahout 專案中主要貢獻自動化 API 文件 pipeline。",
   "Designing an event-driven architecture with Kafka and RabbitMQ to decouple existing services and improve message reliability and scalability.":
     "設計以 Kafka 與 RabbitMQ 為核心的 event-driven 架構，將既有服務解耦合，並提升訊息處理的可靠性與可擴充性。",
   "Utilized PHP, JavaScript, MySQL, and Burp Suite to design real-world web application vulnerabilities. Created attack scenarios to showcase how these vulnerabilities are exploited.":

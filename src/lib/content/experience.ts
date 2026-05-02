@@ -7,7 +7,7 @@ export const experience_list: ExperienceType[] = [
     period: "May 2026 - Aug 2026",
     logo: "/gsoc-icon.png",
     description: [
-      "Selected for Google Summer of Code 2026 to contribute to the Apache Mahout project under The Apache Software Foundation.",
+      "Selected for Google Summer of Code 2026, primarily contributing to the automated API documentation pipeline for Apache Mahout.",
     ],
   },
   {
