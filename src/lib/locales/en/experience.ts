@@ -13,7 +13,11 @@ export const experience = {
   "Computer Science Student Association":
     "Computer Science Student Association",
   "Software Engineer Internship": "Software Engineer Internship",
+  "Google Summer of Code": "Google Summer of Code",
+  "The Apache Software Foundation": "The Apache Software Foundation",
   "Taiwan Mobile": "Taiwan Mobile",
+  "Selected for Google Summer of Code 2026 to contribute to the Apache Mahout project under The Apache Software Foundation.":
+    "Selected for Google Summer of Code 2026 to contribute to the Apache Mahout project under The Apache Software Foundation.",
   "Utilized PHP, JavaScript, MySQL, and Burp Suite to design real-world web application vulnerabilities. Created attack scenarios to showcase how these vulnerabilities are exploited.":
     "Utilized PHP, JavaScript, MySQL, and Burp Suite to design real-world web application vulnerabilities. Created attack scenarios to showcase how these vulnerabilities are exploited.",
   "Designing an event-driven architecture with Kafka and RabbitMQ to decouple existing services and improve message reliability and scalability.":
