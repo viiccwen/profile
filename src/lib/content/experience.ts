@@ -2,21 +2,21 @@ import type { ExperienceType } from "./types";
 
 export const experience_list: ExperienceType[] = [
   {
+    title: "Open Source Contributor",
+    subtitle: "Google Summer of Code",
+    period: "May 2026 - Aug 2026",
+    logo: "/gsoc-icon.png",
+    description: [
+      "Selected for Google Summer of Code 2026 to contribute to the Apache Mahout project under The Apache Software Foundation.",
+    ],
+  },
+  {
     title: "Software Engineer Internship",
     subtitle: "Taiwan Mobile",
     period: "Mar 2026 - Present",
     logo: "/twm.webp",
     description: [
       "Designing an event-driven architecture with Kafka and RabbitMQ to decouple existing services and improve message reliability and scalability.",
-    ],
-  },
-  {
-    title: "Google Summer of Code",
-    subtitle: "The Apache Software Foundation",
-    period: "May 2026 - Aug 2026",
-    logo: "/gsoc.svg",
-    description: [
-      "Selected for Google Summer of Code 2026 to contribute to the Apache Mahout project under The Apache Software Foundation.",
     ],
   },
   {

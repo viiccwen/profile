@@ -10,6 +10,7 @@ export const experience = {
   "Bachelor of Science in Computer Science": "資訊工程系學士",
   "Computer Science Student Association": "資訊工程學系學生會",
   "Software Engineer Internship": "軟體工程實習生",
+  "Open Source Contributor": "開源貢獻者",
   "Google Summer of Code": "Google Summer of Code",
   "The Apache Software Foundation": "The Apache 軟體基金會",
   "Taiwan Mobile": "台灣大哥大",
