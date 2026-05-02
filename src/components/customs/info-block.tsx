@@ -103,7 +103,7 @@ export const InfoBlock = ({ lang, setLang }: InfoBlockProps) => {
               asChild
             >
               <a
-                href="https://www.linkedin.com/in/guan-hua-wen-625bb0270/"
+                href="https://www.linkedin.com/in/viiccwen/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
