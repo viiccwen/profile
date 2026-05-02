@@ -13,7 +13,7 @@ export const experience = {
   "Computer Science Student Association":
     "Computer Science Student Association",
   "Software Engineer Internship": "Software Engineer Internship",
-  "Open Source Contributor": "Open Source Contributor",
+  "Mentee": "Mentee",
   "Google Summer of Code": "Google Summer of Code",
   "The Apache Software Foundation": "The Apache Software Foundation",
   "Taiwan Mobile": "Taiwan Mobile",
