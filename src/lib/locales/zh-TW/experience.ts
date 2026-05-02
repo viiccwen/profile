@@ -58,10 +58,10 @@ export const experience = {
     "建立多語言測試基礎建設，監控 Rust 和 Python 程式碼覆蓋率。",
   "Extended Mahout's QDP Python and Rust APIs to support float32 GPU pipelines.":
     "擴展 Mahout 的 QDP Python 和 Rust API，支援 float32 GPU pipeline。",
-  "Contributed 25+ PRs focusing on designing & optimizing QDP performance.":
-    "貢獻超過 25 個 PR，聚焦於設計和優化 QDP 效能。",
-  "Helped review 55+ PRs focusing on code quality and performance.":
-    "協助審查超過 55 個 PR，聚焦於程式碼品質和效能。",
+  "Contributed 30+ PRs focusing on designing & optimizing QDP performance.":
+    "貢獻超過 30 個 PR，聚焦於設計和優化 QDP 效能。",
+  "Helped review 60+ PRs focusing on code quality and performance.":
+    "協助審查超過 60 個 PR，聚焦於程式碼品質和效能。",
   "Simplified scheduling by removing deprecated settings, improving compatibility with newer Airflow versions.":
     "簡化排程，移除過時設定，提升與新版 Airflow 的相容性。",
   "Contributed 5+ PRs focused on improving DAG generation & version migration.":
