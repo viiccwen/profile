@@ -2,6 +2,15 @@ import type { ExperienceType } from "./types";
 
 export const experience_list: ExperienceType[] = [
   {
+    title: "Mentee",
+    subtitle: "Google Summer of Code",
+    period: "May 2026 - Aug 2026",
+    logo: "/gsoc-icon.png",
+    description: [
+      "Selected for Google Summer of Code 2026, primarily contributing to the automated API documentation pipeline for Apache Mahout.",
+    ],
+  },
+  {
     title: "Software Engineer Internship",
     subtitle: "Taiwan Mobile",
     period: "Mar 2026 - Present",
