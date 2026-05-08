@@ -1,10 +1,13 @@
+import { Suspense, lazy } from "react";
 import { Routes, Route } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
 import { ThemeProvider } from "@/components/ui/theme-provider";
-import About from "@/pages/About";
 import { metadata } from "@/lib/metadata";
 
 import "@/index.css";
+
+const About = lazy(() => import("@/pages/About"));
+
 function App() {
   return (
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
@@ -13,9 +16,11 @@ function App() {
         <meta name="description" content={metadata.description} />
         <link rel="icon" type="image/svg+xml" href={metadata.icons.icon} />
       </Helmet>
-      <Routes>
-        <Route path="/" element={<About />} />
-      </Routes>
+      <Suspense fallback={<main className="min-h-screen" />}>
+        <Routes>
+          <Route path="/" element={<About />} />
+        </Routes>
+      </Suspense>
     </ThemeProvider>
   );
 }
