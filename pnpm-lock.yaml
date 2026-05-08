@@ -37,9 +37,6 @@ importers:
       lucide-react:
         specifier: ^1.14.0
         version: 1.14.0(react@19.2.6)
-      prettier:
-        specifier: ^3.8.3
-        version: 3.8.3
       react:
         specifier: ^19.2.6
         version: 19.2.6
@@ -92,6 +89,9 @@ importers:
       globals:
         specifier: ^17.6.0
         version: 17.6.0
+      prettier:
+        specifier: ^3.8.3
+        version: 3.8.3
       tw-animate-css:
         specifier: ^1.4.0
         version: 1.4.0
